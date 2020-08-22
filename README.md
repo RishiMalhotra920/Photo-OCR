@@ -3,4 +3,4 @@ An application that detects hand-written numbers using machine learning. Develop
 
 Data taken from the [MNIST dataset](https://azure.microsoft.com/en-us/services/open-datasets/catalog/mnist/).
 
-![MNIST Image](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png)
+![MNIST Image](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
